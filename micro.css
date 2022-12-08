@@ -1,0 +1,118 @@
+.first{
+    width: 100%;
+    height: 90px;
+    
+}
+.child1{
+    width: 60%;
+    height: 90px;
+    
+    float: left;
+}
+.link{
+    font-size: xx-large;
+    font-weight:bold;
+    background: red;
+    color: white;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-bottom: 7px;
+    padding-top: 70px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: black;
+    
+}
+.tables{
+    padding-top: 10px;
+    width: 100%;
+    font-size: 15px;
+    font-weight: bold;
+}
+.second{
+    width: 40%;
+    height: 90px;
+    
+    float: left;
+}
+.tables2{
+    width: 100%;
+}
+.hai{
+    height: 30px;
+    margin-left: 0px;
+    
+    color:black;
+    
+
+}
+.main{
+    width: 100%;
+    height: 850px;
+    
+    background-image: url(images/lenovo-stfa-30-ftv-banner-bg-img-desktop.webp);
+}
+.half{
+    width: 50%;
+    height: 700px;
+    font-size: 4em;
+    float: left;
+}
+.half2{
+    width: 50%;
+    height: 700px;
+    
+    float: left;
+
+}
+.A{
+    width: 50%;
+    height: 320px;
+    
+    float: left;
+    color: white;
+    padding-top: 380px;
+}
+.B{
+    width: 50%;
+    height: 320px;
+    
+    float: left;
+    padding-top: 380px;
+}
+
+
+.ccc{
+    width: 100%;
+    height: 250px;
+    background: #efefef;
+}
+.cba{
+    width: 70%;
+    height: 120px;
+    background: #efefef;
+    float: left;
+}
+.cbb{
+    width: 30%;
+    height: 120px;
+    background: #efefef;
+    float: left;
+}
+.cbc{
+    width: 100%;
+    height: 50px;
+    padding-top: 20px;
+    float: left;
+    background: #efefef;
+    color: #555;
+    
+}
+.cbd{
+    width: 100%;
+    height: 30px;
+    background: #efefef;
+    color: #555;
+    
+}
+
+
