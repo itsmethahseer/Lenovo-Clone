@@ -1,0 +1,25 @@
+.header{
+    width: 100%;
+    height: 60px;
+    background: yellow;
+}
+body{
+    margin: 0px;
+}
+.second{
+    width: 100%;
+    height: 600px;
+    background: royalblue;
+}
+.Third{
+    width: 100%;
+    height: 600px;
+    background: orange;
+    margin-top: 17px;
+}
+.fourth{
+    width: 100%;
+    height: 500px;
+    background: cadetblue;
+    margin-top: 20px;
+}

@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+}
+.body{
+    margin: 0px;
+    margin-right: 50px;
+}
+.bag{
+    overflow: hidden;
+   z-index: -5;
+}
+.bbb{
+    background-image: url("/bootsrap_project/thah.png");
+position: absolute;
+    
+}
